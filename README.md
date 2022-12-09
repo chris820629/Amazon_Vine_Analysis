@@ -10,8 +10,8 @@ From the analysis, there is 0% vine reviews from all the 5 star reviews. On the 
 ##Summary
 Based on these, there is significant difference in 5 star review whether they are vine or non-vine reviews. An addiitonal analysis could be plot the boxplot as well as scatter-plot to understand if other reviews (less than 5 star) has also some indication of vine review effect as the alternative hypothesis. 
 
-![image1.png](https://github.com/chris820629/Amazon_Vine_Analysis/blob/main/image1.png)
-![image2.png](https://github.com/chris820629/Amazon_Vine_Analysis/blob/main/image2.png)
-![image3.png](https://github.com/chris820629/Amazon_Vine_Analysis/blob/main/image3.png)
-![image4.png](https://github.com/chris820629/Amazon_Vine_Analysis/blob/main/image4.png)
-![image5.png](https://github.com/chris820629/Amazon_Vine_Analysis/blob/main/image5.png)
+![Image1.png](https://github.com/chris820629/Amazon_Vine_Analysis/blob/main/Image1.png)
+![Image2.png](https://github.com/chris820629/Amazon_Vine_Analysis/blob/main/Image2.png)
+![Image3.png](https://github.com/chris820629/Amazon_Vine_Analysis/blob/main/Image3.png)
+![Image4.png](https://github.com/chris820629/Amazon_Vine_Analysis/blob/main/Image4.png)
+![Image5.png](https://github.com/chris820629/Amazon_Vine_Analysis/blob/main/Image5.png)
